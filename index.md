@@ -1,6 +1,6 @@
 ### Ahoy 👋
 
-I'm Aurélien Genin, a french 🇫🇷 master student passionate about space engineering 🛰️ and astronomy 🔭. 
+I'm **Aurélien Genin**, a french 🇫🇷 master student passionate about space engineering 🛰️ and astronomy 🔭. 
 
 I'm currently stuyding engineering at [École polytechnique](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program) 🇫🇷 and observational astronomy at [Observatoire de Côte d'Azur](https://www.oca.eu/fr/duao-oca) 🇫🇷 and will soon begin a robotics master at [EPFL](https://www.epfl.ch/education/master/programs/robotics/) 🇨🇭. In the near future, I would love to develop small (or big) robots roaming on other worlds 🤖🪐 ! For now, I gaze at the universe through the eyes of the robots I wish to one day build and fly/drive, and through my telescope, with which I've been [APOD 19/01/2024](https://apod.nasa.gov/apod/ap240119.html) 🌟
 
