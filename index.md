@@ -1,4 +1,4 @@
-### Ahoy 👋
+Ahoy 👋
 
 I'm **Aurélien Genin**, a french 🇫🇷 master student passionate about space engineering 🛰️ and astronomy 🔭. 
 
@@ -8,10 +8,4 @@ For the next few months, as a trainee, I'm working at the [Cosmic DAWN Center](h
 
 On my GitHub page, I share different projects - academic, work-related or just personal ones - that may be useful to other people ! Feel free to use any of it for any purposes (preferably open-source, scientific or educational). All of my code is copyrighted under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) 😉
 
-I'm a big fan of collaborative engineering or scientific projects, so if you would like to work with me on something, don't hesitate to reach me 📫
-
-* Email 📧 : aurelien [dot] genin [dot] 2021 [at] polytechnique [dot] org
-* Twitter 🐦 : [@Astro_Aure](https://twitter.com/astro_aure)
-* BlueSky 🦋 : [@astroaure.bsky.social](https://bsky.app/profile/astroaure.bsky.social)
-* GitHub 🤖 : [AstroAure](https://github.com/AstroAure)
-* Telescopius 🔭 : [AstroAure](https://telescopius.com/profile/astroaure)
+I'm a big fan of collaborative engineering or scientific projects, so if you would like to work with me on something, don't hesitate to [reach me 📫](/about-me/contact.md)
