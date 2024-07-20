@@ -1,4 +1,6 @@
-markdown: GFM
-remote_theme: devich/quick@0.0.1
-bg_color: dark
-theme_color: indigo
+markdown : GFM
+title: Aurélien Genin
+description: Portfolio and CV
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
