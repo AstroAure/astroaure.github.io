@@ -21,6 +21,9 @@
 
 #### **2023**: [Clean Space Training Course](https://www.esa.int/Education/ESA_Academy/Applications_now_open_for_the_3rd_edition_of_the_Clean_Space_Training_Course_2023) *at ESA Academy, ESEC 🇧🇪*
 
+#### **2023**: Pyrotechnician certificate (F4T2) *with Brezac, Palaiseau 🇫🇷*
+* Multiple firework shows at Ecole polytechnique, installation of the national day firework at Poitiers 🇫🇷
+
 #### **2019**: [Universpace](https://universpace.cnes.fr/) (base cursus) *at CNES, Toulouse 🇫🇷*
 
 
