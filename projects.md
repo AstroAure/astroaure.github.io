@@ -22,6 +22,16 @@
 
 <p> <br> </p>
 
+* **[Une nuit au Mus'X "Les polytechniciens et l'exploration spatiale"](https://www.youtube.com/watch?v=Bj6o8RIyAnw)** *with Astronautix&Mus'X/Ecole polytechnique (in french)*
+  * Organization and animation of a live emission for popularizing space sciences 
+
+<p> <br> </p>
+
+* **[Les bases (détaillés)](https://github.com/AstroAure/Les-bases-detaillees)** *(in french)*
+  * Mini-courses about science and engineering topics (astronomy, satellites...) to help students star working on engineering projects 
+
+<p> <br> </p>
+
 * **[Ingenuity trajectory from navigation camera images](https://github.com/AstroAure/Ingenuity-Trajectory)**
   * Python (numpy, opencv, matplotlib), image feature recognition, template matching, optical flow
 
