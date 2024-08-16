@@ -19,6 +19,8 @@
 
 * **Galaxy morphology measurements from James Webb Space Telescope images using SourceXtractor++** *at Cosmic DAWN Center*
   * Astrophysics, astronomy, Python (numpy, matplotlib, astropy, pandas...), AWS (EC2, S3), SourceXtractor++, bibliographic research
+  * Results have been published on the DAWN JWST Archive : https://dawn-cph.github.io/dja/blog/2024/08/16/morphological-data/
+  * Paper in preparation...
 
 <p> <br> </p>
 
