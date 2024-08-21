@@ -4,6 +4,7 @@
 
 * **System engineering and AIT planification for student 6U CubeSat IonSat** *at CSEP/Ecole polytechnique*
   * Space engineering, orbital mechanics, tests, team managment
+  * [Talk at the 13th European Cubesat Symposium](https://www.conftool.com/cubesat2023/index.php?page=browseSessions&form_session=13&presentations=hide) in 2023 in Leuven, Belgium
 
 <p> <br> </p>    
 
