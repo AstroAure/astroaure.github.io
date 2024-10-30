@@ -4,9 +4,12 @@
 
 #### **2024-2026**: Master in Robotics (minor in Space technologies) *at EPFL, Lausanne 🇨🇭*
 
+* **Courses**: Spacecraft design and systems engineering, Legged robots, Mobile robotics, Robotics for manipulation, Space mission design, Model predictive control, Scientific outreach.
+* **Projects**: Development of X-band ground station algorithms to track satellites, Phase 0/A of a solar observatory at Sun-Earth L4, Scientific outreach event for children about crowd science
+* **Clubs**: EPFL Spacecraft Team (student CubeSat mission), SSA (astronomy for space surveillance), Callista (astronomy)
+  
 #### **2021-2024**: Engineering degree *at Ecole polytechnique, Palaiseau 🇫🇷*
 * **Courses**: Orbital dynamics, Optimization, Control, Plasma physics, Propulsion, Aerodynamics, Fluid mechanics, Finite element method, Propulsion, Data science, Relativity, Cognitive sciences, Molecular biology. [Download full course syllabus and description.](assets/Course_catalogue_AGN.pdf)
-
 * **Projects**: 6U CubeSat IonSat (System engineering and AIT), Autonomous racing car, Model United Nations in London (United Arab Emirates delegate at COPUOS), Model of the Coradi analyser
 * **Clubs**: Astronautix (space/astronomy, president), Apicultix (beekeeping, president), Binet Photo (photography, equipment manager), Artifix (fireworks, pyrotechnician), Album Promo (memory album of the promotion, photo manager)
 * **Result**: GPA 3.95/4
