@@ -35,7 +35,7 @@
  
  <p> <br> </p>
 
-* **Theoretical study of a satellite attitude control system using fluids for rotation damping** *at CSEP/Ecole polytechnique*
+* **Theoretical study of a satellite attitude control system using fluids for rotation damping** *at CSEP/Ecole polytechnique (2023-2024)*
   * Bibliographic research, fluid mechanics, CFD (SPlisH SPlasH, Ansys Fluent)
 
 ## Independent projects
