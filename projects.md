@@ -21,7 +21,7 @@
 
 <p> <br> </p>
 
-* **Observation and analysis of the tri-colour light-curve of asteroid (6) Hebe** *at DUAO/OCA (2024)*
+* **[Observation and analysis of the tri-colour light-curve of asteroid (6) Hebe](assets/Rapport_DUAO-AurelienGenin_Asteroides.pdf)** *at DUAO/OCA (2024)*
   * Astronomy, Python (numpy, matplotlib, astropy, pandas...), image processing, model fitting, bibliographic research
   * Python pipeline [`astrocal`](https://github.com/AstroAure/AstroCal) developed to process images and extract light curves
  
