@@ -15,18 +15,26 @@
 
 <p> <br> </p>
 
-* **Designing of satellite tracking algorithms for an X-band ground station** *at EPFL Spacecraft Team (2024)*
-  * Telecommunications, astronomy, Python (numpy, matplotlib, astropy, scipy, openturns...), statistics (kriging, Monte-Carlo simulations...) 
+* **Design of satellite tracking algorithms for an X-band ground station** *at EPFL Spacecraft Team (2024)*
+  * Telecommunications, astronomy, Python (numpy, matplotlib, astropy, scipy, openturns...), statistics (kriging, Monte-Carlo simulations...)
+  * Python package [`satastro`](https://github.com/AstroAure/satastro) developed for astronomy of or from satellites computations
 
 <p> <br> </p>
 
 * **Observation and analysis of the tri-colour light-curve of asteroid (6) Hebe** *at DUAO/OCA (2024)*
   * Astronomy, Python (numpy, matplotlib, astropy, pandas...), image processing, model fitting, bibliographic research
+  * Python pipeline [`astrocal`](https://github.com/AstroAure/AstroCal) developed to process images and extract light curves
  
  <p> <br> </p>
 
 * **Development of control algorithms for autonomous obstacle overcoming with a tracked robot with flipper arms** *at Exail (2023)*
   * ROS2, C++, Gazebo, bibliographic research, robot control
+ 
+ <p> <br> </p>
+
+ * **Space mission concept design of a solar observatory at Sun-Earth L4** *at EPFL (2024)*
+  * Space systems engineering, bibliographic research, basics in heliophysics and instrumentation, spacecraft design
+  * [Mission concept](assets/SOL_EUCASS_Article.pdf) proposed for EUCASS 2025
  
 <p> <br> </p>
 
