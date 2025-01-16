@@ -4,18 +4,19 @@
 
 #### **2024-2026**: Master in Robotics (minor in Space technologies) *at EPFL, Lausanne 🇨🇭*
 
-* **Courses**: Spacecraft design and systems engineering, Legged robots, Mobile robotics, Robotics for manipulation, Space mission design, Model predictive control, Scientific outreach.
-* **Projects**: Development of X-band ground station algorithms to track satellites, Phase 0/A of a solar observatory at Sun-Earth L4, Scientific outreach event for children about crowd science
+* **Courses**: Spacecraft design and systems engineering, Design of mechanisms for space and extreme environments, Concurrent engineering of space missions, Legged robots, Mobile robotics, Aerial robotics, Robotics for manipulation, Space mission design, Model predictive control, Deep learning, Cosmology, Scientific outreach. [Download full course syllabus and description.](assets/Course_catalogue_EPFL_AGN.pdf)
+* **Projects**: Development of X-band ground station algorithms to track satellites, Phase 0/A of a [solar observatory at Sun-Earth L4](assets/SOL_EUCASS_Article.pdf), Scientific outreach event for children about crowd science
 * **Clubs**: EPFL Spacecraft Team (student CubeSat mission), SSA (astronomy for space surveillance), Callista (astronomy)
   
 #### **2021-2024**: Engineering degree *at Ecole polytechnique, Palaiseau 🇫🇷*
-* **Courses**: Orbital dynamics, Optimization, Control, Plasma physics, Propulsion, Aerodynamics, Fluid mechanics, Finite element method, Propulsion, Data science, Relativity, Cognitive sciences, Molecular biology. [Download full course syllabus and description.](assets/Course_catalogue_AGN.pdf)
+* **Courses**: Orbital dynamics, Optimization, Control, Plasma physics, Propulsion, Aerodynamics, Fluid mechanics, Finite element method, Propulsion, Data science, Relativity, Cognitive sciences, Molecular biology. [Download full course syllabus and description.](assets/Course_catalogue_X_AGN.pdf)
 * **Projects**: 6U CubeSat IonSat (System engineering and AIT), Autonomous racing car, Model United Nations in London (United Arab Emirates delegate at COPUOS), Model of the Coradi analyser
 * **Clubs**: Astronautix (space/astronomy, president), Apicultix (beekeeping, president), Binet Photo (photography, equipment manager), Artifix (fireworks, pyrotechnician), Album Promo (memory album of the promotion, photo manager)
 * **Result**: GPA 3.95/4
 
 #### **2023-2024**: [University degree in observational astronomy](https://www.oca.eu/fr/duao-oca) *at Observatoire de la Côte d'Azur, Nice 🇫🇷 (Online)*
 * **Project:** Observation of asteroid (6) Hebe with a 1m telescope with three SDSS filters, full light-curve analysis, asteroid shape estimation
+  * [Download project report (fr)](assets/Rapport_DUAO-AurelienGenin_Asteroides.pdf) 
 
 #### **2019-2021**: CPGE (Higher School Preparatory Classes) MPSI/PSI* *at Lycée du Parc, Lyon 🇫🇷*
 * **Results**: Centrale: 2<sup>nd</sup>, ENS: 3<sup>rd</sup>, Polytechnique: 6<sup>th</sup>, Mines-Ponts: 10<sup>th</sup>
