@@ -33,7 +33,7 @@
 
 * **Space mission concept design of a solar observatory at Sun-Earth L4** *at EPFL (2024)*
   * Team leading and organization, space systems engineering, bibliographic research, basics in heliophysics and instrumentation, spacecraft design
-  * [Mission concept](assets/SOL_EUCASS_Article.pdf) proposed for EUCASS 2025
+  * [Mission concept](assets/SOL_EUCASS_Article.pdf) presented at EUCASS 2025, in Rome, Italy
  
 <p> <br> </p>
 
