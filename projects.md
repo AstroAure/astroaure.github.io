@@ -73,7 +73,12 @@
 <p> <br> </p>
 
 * **[Les bases (détaillés)](https://github.com/AstroAure/Les-bases-detaillees)** *(2024)*
-  * Mini-courses about science and engineering topics (astronomy, satellites...) to help students star working on engineering projects 
+  * Mini-courses about science and engineering topics (astronomy, satellites...) to help students star working on engineering projects
+ 
+<p> <br> </p>
+
+* **Design of a 3m-wide wood observatory** *with SSA/EPFL (2025)*
+  * Complex parametrized CAD (Autodesk Fusion 360), finite element simulation, assembly process thinking, motorization mechanism design
 
 <p> <br> </p>
 
