@@ -5,8 +5,8 @@
 #### **2024-2026**: Master in Robotics (minor in Space technologies) *at EPFL, Lausanne 🇨🇭*
 
 * **Courses**: Spacecraft design and systems engineering, Design of mechanisms for space and extreme environments, Concurrent engineering of space missions, Legged robots, Mobile robotics, Aerial robotics, Robotics for manipulation, Space mission design, Model predictive control, Deep learning, Cosmology, Scientific outreach. [Download full course syllabus and description.](assets/Course_catalogue_EPFL_AGN.pdf)
-* **Projects**: Development of X-band ground station algorithms to track satellites, Phase 0/A of a [solar observatory at Sun-Earth L4](assets/SOL_EUCASS_Article.pdf), Scientific outreach event for children about crowd science
-* **Clubs**: EPFL Spacecraft Team (student CubeSat mission), SSA (astronomy for space surveillance), Callista (astronomy)
+* **Projects**: Design of an autonomous telescope ([PANOPTES](https://www.projectpanoptes.org/)) as a scientific outreach project with STEM IH, Mirror mechanism control for ESO's VLT BlueMUSE instrument, Development of X-band ground station algorithms to track satellites, Phase 0/A of a [solar observatory at Sun-Earth L4](assets/SOL_EUCASS_Article.pdf), Scientific outreach event for children about crowd science, Design of a 3m-wide wood observatory at SSA
+* **Clubs**: EPFL Spacecraft Team (student CubeSat mission), SSA (astronomy for space surveillance), Callista (astronomy and PANOPTES outreach project)
   
 #### **2021-2024**: Engineering degree *at Ecole polytechnique, Palaiseau 🇫🇷*
 * **Courses**: Orbital dynamics, Optimization, Control, Plasma physics, Propulsion, Aerodynamics, Fluid mechanics, Finite element method, Propulsion, Data science, Relativity, Cognitive sciences, Molecular biology. [Download full course syllabus and description.](assets/Course_catalogue_X_AGN.pdf)
