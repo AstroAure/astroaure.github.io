@@ -18,14 +18,16 @@
 * **Ground segment, operations and mission analysis for student 3U CubeSat CHESS** *at EPFL Spacecraft Team (2024-2025)*
   * Design of satellite tracking algorithms for an X-band ground station
     * Telecommunications, astronomy, Python (numpy, matplotlib, astropy, scipy, openturns...), statistics (kriging, Monte-Carlo simulations...)
-    * Python package [`satastro`](https://github.com/AstroAure/satastro) developed for astronomy of or from satellites computations 
+    * Python package [`satastro`](https://github.com/AstroAure/satastro) developed for astronomy of or from satellites computations
+    * Report available [here](assets/Semester-Project-CHESS_Aurélien_Genin.pdf)
   * Planification of satellite operations and procedures
-  * Leader of the mission design pole 
+  * Leader of the mission design pole
 
 <p> <br> </p>
 
-* **Mirror tilting mechanism control and test for ESO's VLT BlueMUSE** *at EPFL LASTRO Astrobots (2025)*
-  * Open-loop control design and test of a fine tilting mechanism for the future BlueMUSE Integral Field Unit at ESO's VLT observatory
+* **Mirror tilting mechanism characterization for ESO's VLT BlueMUSE** *at EPFL LASTRO Astrobots (2025)*
+  * Open-loop control design and test of a fine tilting mechanism for the future BlueMUSE Integral Field Spectrograpg at ESO's VLT observatory
+  * Report available [here](assets/AurelienGenin_Characterization-of-BlueMUSE-FM1-mechanism_Report.pdf)
     
 <p> <br> </p>
 
@@ -42,7 +44,7 @@
 
 * **Space mission concept design of a solar observatory at Sun-Earth L4** *at EPFL (2024)*
   * Team leading and organization, space systems engineering, bibliographic research, basics in heliophysics and instrumentation, spacecraft design
-  * [Mission concept](assets/SOL_EUCASS_Article.pdf) presented at EUCASS 2025, in Rome, Italy
+  * [Mission concept](https://doi.org/10.13009/eucass2025-035) presented at EUCASS 2025, in Rome, Italy
  
  <p> <br> </p>
 
