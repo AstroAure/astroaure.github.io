@@ -28,6 +28,7 @@
 * **Mirror tilting mechanism characterization for ESO's VLT BlueMUSE** *at EPFL LASTRO Astrobots (2025)*
   * Open-loop control design and test of a fine tilting mechanism for the future BlueMUSE Integral Field Spectrograpg at ESO's VLT observatory
   * Report available [here](assets/AurelienGenin_Characterization-of-BlueMUSE-FM1-mechanism_Report.pdf)
+  * Conference paper: *Design and Testing of the Motorized 2-DoF Folding Mirror 1 for the VLT BlueMUSE Instrument*, G. Mellinand et. al., 2026, [arXiv](https://arxiv.org/abs/2606.18865)
     
 <p> <br> </p>
 
